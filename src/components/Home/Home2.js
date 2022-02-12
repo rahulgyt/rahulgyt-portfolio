@@ -20,8 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming every since I touched a keyboard and started to code in BASIC on a game console 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
@@ -40,7 +39,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Node.js</b>
               <br />
               I also have a <b><a href="https://youtube.com/mysteriotv"> Youtube channel</a></b> with over 55K subscribers, where I upload tutorial video and tech reviews
               <i>
