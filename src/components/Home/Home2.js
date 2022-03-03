@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming every since I touched a keyboard and started to code in BASIC on a game console 🤷‍♂️
+              I fell in love with programming ever since I touched a keyboard and started to code in BASIC on a game console 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
