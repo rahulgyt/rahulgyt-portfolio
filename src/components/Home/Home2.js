@@ -40,8 +40,6 @@ function Home2() {
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b>
-              <br />
-              I also have a <b><a href="https://youtube.com/mysteriotv"> Youtube channel</a></b> with over 55K subscribers, where I upload tutorial video and tech reviews
               <i>
                 <b className="purple">
                   {" "}
@@ -52,6 +50,9 @@ function Home2() {
               <i>
                 <b className="purple"> React.js </b>
               </i>
+              <br />
+              I also have a <b><a href="https://youtube.com/mysteriotv"> Youtube channel</a></b> with over 55K subscribers, where I upload tutorial video and tech reviews
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
